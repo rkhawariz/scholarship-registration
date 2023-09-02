@@ -1,0 +1,16 @@
+body {
+  background-color: lightslategray;
+}
+
+.container {
+  background-color: #fff;
+  padding: 20px;
+}
+
+.section-menu {
+  padding: 25px;
+}
+
+.doff {
+  background-color: lightgrey;
+}
